@@ -8,7 +8,7 @@ describe('InvestDashboardComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ InvestDashboardComponent ]
+      declarations: [ InvestDashboardComponent, ]
     })
     .compileComponents();
   }));
