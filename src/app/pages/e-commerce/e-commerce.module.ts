@@ -23,6 +23,7 @@ import { StatsCardFrontComponent } from './profit-card/front-side/stats-card-fro
 
 
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
+import { InvestDashboardComponent } from './invest-dashboard/invest-dashboard.component';
 
 @NgModule({
   imports: [
@@ -47,6 +48,7 @@ import { LeafletModule } from '@asymmetrik/ngx-leaflet';
     StatsBarAnimationChartComponent,
     ProfitCardComponent,
     StatsCardBackComponent,
+    InvestDashboardComponent,
   ],
 })
 export class ECommerceModule { }
