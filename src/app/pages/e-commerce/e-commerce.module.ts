@@ -46,7 +46,7 @@ import { LeafletModule } from '@asymmetrik/ngx-leaflet';
     StatsAreaChartComponent,
     StatsBarAnimationChartComponent,
     ProfitCardComponent,
-    StatsCardBackComponent
+    StatsCardBackComponent,
   ],
 })
 export class ECommerceModule { }
